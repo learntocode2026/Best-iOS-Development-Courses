@@ -12,7 +12,7 @@ That’s where great iOS development courses come in. They go beyond syntax to t
 
 ---
 
-## 1. [Swift Programming for Mobile App Development[(https://www.educative.io/courses/swift-programming-mobile-app) – Educative.io (Top Pick)
+## 1. [Swift Programming for Mobile App Development](https://www.educative.io/courses/swift-programming-mobile-app) – Educative.io (Top Pick)
 
 When you’re starting iOS development, getting comfortable with Swift is step one. Educative’s Swift Programming course makes this easy with an in-browser coding environment—no Xcode installation required. You can focus on learning the language, not wrestling with setup issues.
 
